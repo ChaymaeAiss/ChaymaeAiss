@@ -17,7 +17,7 @@ I'm Chaymae, a passionate full-stack developer with expertise in a variety of te
 - Exploring advanced React patterns and best practices.
 - Exploring advanced techniques and best practices in Laravel development.
 #### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/chaymae-alaiss/)
+- [LinkedIn](https://www.linkedin.com/in/chaymae-alaiss-24ba742aa/)
 
 #### 📫 How to reach me:
 	SOON
