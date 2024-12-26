@@ -2,11 +2,11 @@
 I'm Chaymae, a passionate full-stack developer with expertise in a variety of technologies. Here's a glimpse of what I bring to the table:
 
 ### 💻 Technologies & Skills:
-Frontend: React, Vue.js, HTML, CSS, JavaScript
-Backend: Laravel, PHP, Node.js, Spring Boot
-Database: SQL (MySQL), NoSQL (MongoDB)
-UI Frameworks: Bootstrap
-Programming Languages: Python, Java
+**Frontend:** React, Vue.js, HTML, CSS, JavaScript
+**Backend:** Laravel, PHP, Node.js, Spring Boot
+**Database:** SQL (MySQL), NoSQL (MongoDB)
+**UI Frameworks:** Bootstrap
+**Programming Languages:** Python, Java
 ### 🚀 What I'm currently working on:
 Building scalable and responsive web applications with Vue.js .
 Designing robust backend solutions using Spring Boot for seamless user experiences.
