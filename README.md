@@ -17,7 +17,7 @@ Enhancing my skills in J2EE and Android development.
 #### 🔗 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/chaymae-alaiss-24ba742aa/)  
 - [Fiverr](https://fr.fiverr.com/yukicheniwla?up_rollout=true)
-- [Github Student]([https://fr.fiverr.com/yukicheniwla?up_rollout=true](https://github.com/Chaymae-Alaissaoui)   
+- [Github Student](https://github.com/Chaymae-Alaissaoui)   
 
 #### 📫 How to reach me:  
 	SOON  
